@@ -1,0 +1,24 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+
+  .delete {
+    background-color: #ba0000;
+    &:hover {
+      background-color: #ff0303;
+    }
+    &:active {
+      background-color: #ba0000;
+    }
+    margin-top: 0px;
+  }
+
+  .input-text {
+    width: 60%;
+    height: 30px;
+  }
+}
+
