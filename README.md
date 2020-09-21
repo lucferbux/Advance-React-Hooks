@@ -1,6 +1,8 @@
 # Expense Tracker
 > Advanced Hooks Tutorial
 
+![Header Component](./meta/Header.png)
+
 ## Intro
 
 This project is created to learn some of the uses of [React Hooks](https://reactjs.org/docs/hooks-intro.html). We're gonna follow the tutorial made by the incredible **Harry Wolff** about this topic. You can check the video [here](https://www.youtube.com/watch?v=YKmiLcXiMMo). The tutorial is modified to introduce Typescript.
